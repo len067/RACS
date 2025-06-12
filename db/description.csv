@@ -1,0 +1,14 @@
+EPOCH,OBS_FREQ,FOOTPRINT,PITCH,ROTATION,DURATION,POL_MODE,DATABASE,PRODUCT_ROOT
+0,864.5,square_6x6,1.05,45.0,900.0,pa_fixed,epoch_0,/askapbuffer/payne/mcc381/RACS
+1,1272.5,closepack36,0.9,45.0,900.0,pa_fixed,epoch_1,/askapbuffer/payne/duc030/racs-mid
+2,1632.5,closepack36,0.72,45.0,900.0,pa_fixed,epoch_2,/askapbuffer/payne/len067/racs-high-test1
+3,864.5,square_6x6,1.05,45.0,900.0,pa_fixed,epoch_3,/askapbuffer/payne/len067/racs-low-field-test
+4,1632.5,closepack36,0.9,45.0,900.0,pa_fixed,epoch_4,/askapbuffer/payne/len067/racs-high-test2
+5,1655.5,closepack36,0.9,45.0,900.0,pa_fixed,epoch_5,/askapbuffer/payne/len067/racs-high
+6,864.5,square_6x6,1.05,45.0,900.0,pa_fixed,epoch_6,/askapbuffer/payne/len067/racs-low
+7,864.5,square_6x6,1.05,45.0,900.0,pa_fixed,epoch_7,/askapbuffer/payne/len067/racs-low2
+8,864.5,square_6x6,1.05,45.0,900.0,pa_fixed,epoch_8,/askapbuffer/payne/len067/racs-af
+9,943.5,closepack36,0.9,45.0,900.0,pa_fixed,epoch_9,/askapbuffer/payne/len067/science-processing
+10,1655.5,closepack36,0.9,45.0,900.0,pa_fixed,epoch_10,/askapbuffer/payne/len067/science-processing
+11,864.5,square_6x6,1.05,45.0,900.0,pa_fixed,epoch_11,/askapbuffer/payne/len067/science-processing
+12,1272.5,closepack36,0.9,45.0,900.0,pa_fixed,epoch_12,/askapbuffer/payne/len067/science-processing-racs
