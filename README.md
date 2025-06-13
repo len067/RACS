@@ -28,13 +28,13 @@ $ git config --global user.email "your_name@some_email"
 2. Clone the database on your computer
 ```
 $ cd your-directory
-$ git clone https://bitbucket.csiro.au/scm/askap_surveys/racs.git
+$ git clone [https://github.com/len067/RACS.git]
 ```
 Once finished you will find 
 ```
 .
 +-- your-directory/
-|  +-- racs/
+|  +-- RACS/
 |  |  +-- db/
 |  |  +-- db-inputs/
 |
@@ -42,7 +42,7 @@ Once finished you will find
 
 3. To be consistent with usage in this document which uses `$SURVEY` to refer to the database: 
 ```
-$ export SURVEY=your-directory/racs
+$ export SURVEY=your-directory/RACS
 ```
 
 
