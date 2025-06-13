@@ -28,7 +28,7 @@ $ git config --global user.email "your_name@some_email"
 2. Clone the database on your computer
 ```
 $ cd your-directory
-$ git clone [https://github.com/len067/RACS.git]
+$ git clone https://github.com/len067/RACS.git
 ```
 Once finished you will find 
 ```
